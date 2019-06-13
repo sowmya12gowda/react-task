@@ -1,0 +1,19 @@
+#font{
+    font-size:20px;
+    margin-left:100px;
+}
+#click {
+    background-color: blue;
+    color: white;
+    border-radius: 146px;
+    width: 108px;
+    height: 42px;
+    margin-top: 18px;
+    margin-left: 100px;
+}
+#input{
+    font-size:20px;
+    margin-left:100px;
+
+
+}

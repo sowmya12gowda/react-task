@@ -8,8 +8,11 @@
     margin-top: 100px;
     margin-left: 100px;
     border: 1px solid;
-    background-color: #a9a9a926;
+    background-color: #b8959526;
 }
-.center{
-text-align: center;
+#center{
+text-align:center;
+}
+.btn{
+   padding: 9px; 
 }

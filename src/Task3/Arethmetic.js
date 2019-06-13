@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Arethmetic.css';
 class Arethmetic extends Component {
         constructor(props){
             super(props);
@@ -22,14 +23,13 @@ class Arethmetic extends Component {
         render() {
          return (
            <div>
-            <b>{this.state.add}</b>
-            <b>{this.state.sub}</b>
-            <b>{this.state.mul}</b>
+            <b class="font">{this.state.add}</b>
+            <b class="font1">{this.state.sub}</b>
+            <b class="font2">{this.state.mul}</b>
              <br/>
              <input type='button' onClick={this.addfun} value='Addition'/>
              <input type='button' onClick={this.subfun} value='subtraction'/>
              <input type='button' onClick={this.mulfun} value='multification'/>
-            
             </div>
         );
          }

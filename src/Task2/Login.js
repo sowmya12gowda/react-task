@@ -5,7 +5,7 @@ class Login extends Component {
         return (
             <div>
                 <form class="box">
-               <h1>Sign Up</h1>
+               <h1 class="top">Sign Up</h1>
                 <form className="form">
                     <label id="lab1">Name</label><br/>
                     <input type="name" name="name" id="name"></input><br/><br/>

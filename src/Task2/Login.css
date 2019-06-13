@@ -6,12 +6,15 @@
     border: 1px solid;
     background-color: #a9a9a926;
     padding:100px;
-    margin-top: 100px;
+    margin-top:-97px;
 }
 #btn{
     
     color:white;
     background-color:blue;  
 
+}
+.top{
+    margin-top:-39px;
 }
 
