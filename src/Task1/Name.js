@@ -3,7 +3,7 @@ class Name extends Component {
     render() {
         return (
             <div>
-               name:{this.props.children}|age:{this.props.age} 
+               name:{this.props.children}|age:{this.props.Names} 
              </div>
         );
     }
